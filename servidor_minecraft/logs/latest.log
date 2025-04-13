@@ -53,3 +53,7 @@
 [13Apr2025 22:38:52.645] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10101 ms
 [13Apr2025 22:38:52.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (21.233s)! For help, type "help"
 [13Apr2025 22:38:53.139] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Apr2025 22:52:16.317] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RompedorDeCucas[/100.100.131.31:65062] logged in with entity id 183 at (-3.4249169320937116, 82.0, 71.97892938756667)
+[13Apr2025 22:52:16.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas joined the game
+[13Apr2025 22:53:08.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas lost connection: Disconnected
+[13Apr2025 22:53:08.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas left the game

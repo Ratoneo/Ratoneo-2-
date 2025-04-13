@@ -24,6 +24,18 @@
     },
     "done": true
   },
+  "etched:recipes/transportation/jukebox_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-13 05:51:53 +0000"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/boombox": {
+    "criteria": {
+      "has_jukebox": "2025-04-13 05:51:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-04-13 05:52:28 +0000"
@@ -37,27 +49,15 @@
     },
     "done": false
   },
-  "etched:recipes/transportation/jukebox_minecart": {
-    "criteria": {
-      "has_minecart": "2025-04-13 05:51:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-04-13 05:54:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-04-13 05:52:28 +0000"
     },
     "done": true
   },
-  "etched:recipes/misc/boombox": {
+  "minecraft:recipes/misc/bone_meal": {
     "criteria": {
-      "has_jukebox": "2025-04-13 05:51:53 +0000"
+      "has_bone": "2025-04-13 05:54:18 +0000"
     },
     "done": true
   },
