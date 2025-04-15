@@ -26,6 +26,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-15 02:31:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-04-15 02:17:45 +0000"
@@ -56,6 +62,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-15 02:25:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-15 02:17:45 +0000"
@@ -74,9 +86,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-15 02:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-15 02:31:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-04-15 02:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-15 02:31:07 +0000"
     },
     "done": true
   },
@@ -101,6 +131,18 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-04-15 02:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-04-15 02:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-15 02:31:07 +0000"
     },
     "done": true
   },
@@ -158,6 +200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-15 02:31:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-04-15 02:03:23 +0000"
@@ -206,6 +254,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-15 02:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-15 02:31:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-04-15 02:02:36 +0000"
@@ -215,6 +275,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-04-15 02:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-15 02:31:07 +0000"
     },
     "done": true
   },
@@ -236,9 +302,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-04-15 02:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-15 02:31:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-04-15 02:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-15 02:31:48 +0000"
     },
     "done": true
   },
@@ -290,6 +374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-15 02:31:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-04-15 02:17:45 +0000"
@@ -323,6 +413,18 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-04-15 02:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-15 02:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-15 02:31:07 +0000"
     },
     "done": true
   },
@@ -368,9 +470,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-15 02:31:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-04-15 02:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-15 02:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-15 02:31:07 +0000"
     },
     "done": true
   },
@@ -446,9 +566,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-15 02:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-15 02:31:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2025-04-15 02:17:08 +0000"
+      "minecraft:skeleton": "2025-04-15 02:32:35 +0000",
+      "minecraft:spider": "2025-04-15 02:32:00 +0000",
+      "minecraft:zombie": "2025-04-15 02:17:08 +0000",
+      "minecraft:zombie_villager": "2025-04-15 02:32:49 +0000"
     },
     "done": false
   },
@@ -500,9 +635,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-15 02:31:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-04-15 02:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-15 02:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-15 02:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-15 02:31:07 +0000"
     },
     "done": true
   },
@@ -590,6 +749,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-04-15 02:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-15 02:31:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-15 02:12:42 +0000"
@@ -604,7 +775,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-04-15 02:09:29 +0000"
+      "cooked_porkchop": "2025-04-15 02:09:29 +0000",
+      "cooked_beef": "2025-04-15 02:23:13 +0000"
     },
     "done": false
   },
@@ -626,6 +798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-15 02:31:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-04-15 02:09:29 +0000"
@@ -644,15 +822,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-04-15 02:23:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-04-15 02:11:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-15 02:31:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-15 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-15 02:31:48 +0000"
     },
     "done": true
   },
