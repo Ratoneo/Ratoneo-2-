@@ -1079,3 +1079,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Apr2025 02:13:00.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Apr2025 02:13:00.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Apr2025 02:17:08.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ has made the advancement [Monster Hunter]
+[15Apr2025 02:17:19.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Hot Stuff]
+[15Apr2025 02:17:45.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ has made the advancement [Acquire Hardware]
+[15Apr2025 02:17:48.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ has made the advancement [Isn't It Iron Pick]
+[15Apr2025 02:18:00.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Apr2025 02:18:00.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Apr2025 02:18:02.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ has made the advancement [Suit Up]
+[15Apr2025 02:21:22.738] [Worker-Main-8/DEBUG] [mixin/]: Mixing VillagerGoalPackagesMixin from etched.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[15Apr2025 02:22:02.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RompedorDeCucas> donde andas mano
+[15Apr2025 02:22:14.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TTVMidxh_> ya voy a subir
+[15Apr2025 02:23:00.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Apr2025 02:23:00.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Apr2025 02:27:06.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Acquire Hardware]
