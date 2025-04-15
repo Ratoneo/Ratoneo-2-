@@ -212,3 +212,16 @@
 [15Apr2025 02:38:30.833] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (4a5cbe74-35cb-4370-b6c8-9267d8da4679) successfully connected to voice chat
 [15Apr2025 02:38:36.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ has made the advancement [Sweet Dreams]
 [15Apr2025 02:45:12.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ has made the advancement [Hot Stuff]
+[15Apr2025 02:49:41.520] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TTVMidxh_ lost connection: Disconnected
+[15Apr2025 02:49:41.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ left the game
+[15Apr2025 02:49:41.523] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TTVMidxh_
+[15Apr2025 02:49:43.394] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TTVMidxh_ is 6925634b-ef1b-4773-98a5-9400b5548115
+[15Apr2025 02:49:44.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TTVMidxh_[/100.114.255.117:58386] logged in with entity id 14116 at (405.51249998807907, 44.0, 265.72097083125465)
+[15Apr2025 02:49:44.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ joined the game
+[15Apr2025 02:49:45.105] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TTVMidxh_ (18)
+[15Apr2025 02:49:45.108] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TTVMidxh_
+[15Apr2025 02:49:45.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6925634b-ef1b-4773-98a5-9400b5548115
+[15Apr2025 02:49:46.738] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6925634b-ef1b-4773-98a5-9400b5548115
+[15Apr2025 02:49:46.738] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TTVMidxh_ (6925634b-ef1b-4773-98a5-9400b5548115) successfully connected to voice chat
+[15Apr2025 02:54:16.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/7897, l='ServerLevel[world]', x=405.30, y=64.94, z=69.52] died, message: 'Leatherworker was slain by Zombie'
+[15Apr2025 02:56:43.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Take Aim]
