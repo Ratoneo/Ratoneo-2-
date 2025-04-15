@@ -1067,3 +1067,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Apr2025 02:04:29.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (4a5cbe74-35cb-4370-b6c8-9267d8da4679) successfully connected to voice chat
 [15Apr2025 02:04:29.793] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of RompedorDeCucas: {disabled=true, disconnected=false, uuid=4a5cbe74-35cb-4370-b6c8-9267d8da4679, name=RompedorDeCucas, group=null}
 [15Apr2025 02:04:45.216] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of RompedorDeCucas: {disabled=false, disconnected=false, uuid=4a5cbe74-35cb-4370-b6c8-9267d8da4679, name=RompedorDeCucas, group=null}
+[15Apr2025 02:08:00.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Apr2025 02:08:00.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Apr2025 02:08:20.898] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TTVMidxh_: {disabled=true, disconnected=false, uuid=6925634b-ef1b-4773-98a5-9400b5548115, name=TTVMidxh_, group=null}
+[15Apr2025 02:08:43.649] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of RompedorDeCucas: {disabled=true, disconnected=false, uuid=4a5cbe74-35cb-4370-b6c8-9267d8da4679, name=RompedorDeCucas, group=null}
+[15Apr2025 02:08:44.889] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of RompedorDeCucas: {disabled=false, disconnected=false, uuid=4a5cbe74-35cb-4370-b6c8-9267d8da4679, name=RompedorDeCucas, group=null}
+[15Apr2025 02:08:46.101] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TTVMidxh_: {disabled=false, disconnected=false, uuid=6925634b-ef1b-4773-98a5-9400b5548115, name=TTVMidxh_, group=null}
+[15Apr2025 02:09:30.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Stone Age]
+[15Apr2025 02:10:28.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Getting an Upgrade]
+[15Apr2025 02:12:38.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Monster Hunter]
+[15Apr2025 02:13:00.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Apr2025 02:13:00.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Apr2025 02:17:08.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ has made the advancement [Monster Hunter]
