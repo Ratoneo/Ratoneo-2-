@@ -1527,3 +1527,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Apr2025 02:53:00.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Apr2025 02:54:16.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/7897, l='ServerLevel[world]', x=405.30, y=64.94, z=69.52] died, message: 'Leatherworker was slain by Zombie'
 [15Apr2025 02:56:43.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Take Aim]
+[15Apr2025 02:58:00.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Apr2025 02:58:00.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Apr2025 03:03:00.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Apr2025 03:03:00.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Apr2025 03:03:49.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TTVMidxh_> me tengo que ir manito hablamos mañana todas mis cosas estan en el cofre mani
+[15Apr2025 03:03:58.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RompedorDeCucas> epa mano
+[15Apr2025 03:04:03.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RompedorDeCucas> que le vaya bien
+[15Apr2025 03:04:13.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TTVMidxh_> en tu cofre el de abajo esta el pico
+[15Apr2025 03:04:26.475] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TTVMidxh_ lost connection: Disconnected
+[15Apr2025 03:04:26.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ left the game
+[15Apr2025 03:04:26.476] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of TTVMidxh_
+[15Apr2025 03:04:26.476] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TTVMidxh_
+[15Apr2025 03:04:26.487] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6925634b-ef1b-4773-98a5-9400b5548115 does not have a secret
+[15Apr2025 03:04:26.530] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6925634b-ef1b-4773-98a5-9400b5548115 does not have a secret
+[15Apr2025 03:04:28.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RompedorDeCucas> epa mano
