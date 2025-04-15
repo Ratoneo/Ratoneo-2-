@@ -186,3 +186,29 @@
 [15Apr2025 02:33:33.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ has made the advancement [Ice Bucket Challenge]
 [15Apr2025 02:33:40.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RompedorDeCucas> QUEEEEEEEEEE
 [15Apr2025 02:36:58.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Not Today, Thank You]
+[15Apr2025 02:37:41.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TTVMidxh_ lost connection: Disconnected
+[15Apr2025 02:37:41.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ left the game
+[15Apr2025 02:37:41.566] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TTVMidxh_
+[15Apr2025 02:37:43.863] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TTVMidxh_ is 6925634b-ef1b-4773-98a5-9400b5548115
+[15Apr2025 02:37:45.357] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TTVMidxh_[/100.114.255.117:58054] logged in with entity id 10797 at (428.23750001192093, 69.0, 98.1772257666079)
+[15Apr2025 02:37:45.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ joined the game
+[15Apr2025 02:37:45.553] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TTVMidxh_ (18)
+[15Apr2025 02:37:45.554] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TTVMidxh_
+[15Apr2025 02:37:46.033] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6925634b-ef1b-4773-98a5-9400b5548115
+[15Apr2025 02:37:47.033] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6925634b-ef1b-4773-98a5-9400b5548115
+[15Apr2025 02:37:47.033] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TTVMidxh_ (6925634b-ef1b-4773-98a5-9400b5548115) successfully connected to voice chat
+[15Apr2025 02:38:05.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TTVMidxh_> mira aver vos
+[15Apr2025 02:38:13.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas lost connection: Disconnected
+[15Apr2025 02:38:13.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas left the game
+[15Apr2025 02:38:13.566] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RompedorDeCucas
+[15Apr2025 02:38:14.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TTVMidxh_> sali y entra
+[15Apr2025 02:38:23.915] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player RompedorDeCucas is 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[15Apr2025 02:38:25.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RompedorDeCucas[/100.100.131.31:64909] logged in with entity id 10947 at (432.53685098680984, 67.0, 90.64234436823142)
+[15Apr2025 02:38:25.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas joined the game
+[15Apr2025 02:38:26.221] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RompedorDeCucas (18)
+[15Apr2025 02:38:26.223] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[15Apr2025 02:38:29.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[15Apr2025 02:38:30.832] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[15Apr2025 02:38:30.833] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (4a5cbe74-35cb-4370-b6c8-9267d8da4679) successfully connected to voice chat
+[15Apr2025 02:38:36.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ has made the advancement [Sweet Dreams]
+[15Apr2025 02:45:12.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ has made the advancement [Hot Stuff]
