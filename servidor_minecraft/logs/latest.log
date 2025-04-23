@@ -743,3 +743,30 @@
 [23Apr2025 18:09:35.431] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [tombstone:tombstone_channel] rejected their client side version number
 [23Apr2025 18:09:35.434] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [23Apr2025 18:09:35.475] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a89963c[id=66b6b133-ee1a-4e62-91c5-d8157bf1f151,name=MIGUELDUQUE09,properties={textures=[com.mojang.authlib.properties.Property@7901453a]},legacy=false] (/100.91.27.91:63252) lost connection: Connection closed - mismatched mod channel list
+[23Apr2025 18:13:01.294] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player MIGUELDUQUE09 is 66b6b133-ee1a-4e62-91c5-d8157bf1f151
+[23Apr2025 18:13:03.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIGUELDUQUE09[/100.91.27.91:63628] logged in with entity id 194 at (-2.5, 72.0, 37.5)
+[23Apr2025 18:13:03.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 joined the game
+[23Apr2025 18:13:04.311] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MIGUELDUQUE09 (18)
+[23Apr2025 18:13:04.316] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MIGUELDUQUE09
+[23Apr2025 18:13:05.091] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 66b6b133-ee1a-4e62-91c5-d8157bf1f151
+[23Apr2025 18:13:06.132] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 66b6b133-ee1a-4e62-91c5-d8157bf1f151
+[23Apr2025 18:13:06.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MIGUELDUQUE09 (66b6b133-ee1a-4e62-91c5-d8157bf1f151) successfully connected to voice chat
+[23Apr2025 18:15:04.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] perro hpta
+[23Apr2025 18:16:29.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 was slain by Spider
+[23Apr2025 18:16:29.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 has made the advancement [Your First Grave]
+[23Apr2025 18:16:30.007] [Server thread/INFO] [tombstone/]: The player MIGUELDUQUE09 has successfully been saved
+[23Apr2025 18:19:55.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 was shot by Skeleton
+[23Apr2025 18:19:55.580] [Server thread/INFO] [tombstone/]: The player MIGUELDUQUE09 has successfully been saved
+[23Apr2025 18:20:46.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIGUELDUQUE09 was kicked for floating too long!
+[23Apr2025 18:20:46.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIGUELDUQUE09 lost connection: Flying is not enabled on this server
+[23Apr2025 18:20:46.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 left the game
+[23Apr2025 18:20:46.531] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MIGUELDUQUE09
+[23Apr2025 18:21:07.423] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player MIGUELDUQUE09 is 66b6b133-ee1a-4e62-91c5-d8157bf1f151
+[23Apr2025 18:21:09.247] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIGUELDUQUE09[/100.91.27.91:63679] logged in with entity id 2521 at (65.73733211675497, 82.16829455792568, 194.5094049069253)
+[23Apr2025 18:21:09.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 joined the game
+[23Apr2025 18:21:09.496] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MIGUELDUQUE09 (18)
+[23Apr2025 18:21:09.498] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MIGUELDUQUE09
+[23Apr2025 18:21:10.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 66b6b133-ee1a-4e62-91c5-d8157bf1f151
+[23Apr2025 18:21:11.083] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 66b6b133-ee1a-4e62-91c5-d8157bf1f151
+[23Apr2025 18:21:11.083] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MIGUELDUQUE09 (66b6b133-ee1a-4e62-91c5-d8157bf1f151) successfully connected to voice chat
+[23Apr2025 18:22:12.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 has made the advancement [Stone Age]
