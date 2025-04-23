@@ -322,6 +322,7 @@
       "cooked_beef": "2025-04-15 03:06:21 +0000",
       "bread": "2025-04-15 02:57:36 +0000",
       "rotten_flesh": "2025-04-15 02:13:01 +0000",
+      "glow_berries": "2025-04-23 20:09:41 +0000",
       "cooked_chicken": "2025-04-23 19:11:10 +0000"
     },
     "done": false
@@ -1853,6 +1854,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-04-23 19:53:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-23 20:10:57 +0000"
     },
     "done": true
   },

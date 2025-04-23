@@ -895,3 +895,21 @@
 [23Apr2025 20:09:50.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 was blown up by Creeper
 [23Apr2025 20:09:50.838] [Server thread/INFO] [tombstone/]: The player MIGUELDUQUE09 has successfully been saved
 [23Apr2025 20:10:57.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Magic Writing]
+[23Apr2025 20:20:32.333] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4a5cbe74-35cb-4370-b6c8-9267d8da4679 timed out
+[23Apr2025 20:20:32.333] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player RompedorDeCucas
+[23Apr2025 20:20:32.334] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[23Apr2025 20:20:52.484] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 20:20:53.310] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 20:20:53.310] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (4a5cbe74-35cb-4370-b6c8-9267d8da4679) successfully connected to voice chat
+[23Apr2025 20:21:35.613] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4a5cbe74-35cb-4370-b6c8-9267d8da4679 timed out
+[23Apr2025 20:21:35.614] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player RompedorDeCucas
+[23Apr2025 20:21:35.615] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[23Apr2025 20:21:37.690] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 20:21:38.675] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 20:21:38.675] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (4a5cbe74-35cb-4370-b6c8-9267d8da4679) successfully connected to voice chat
+[23Apr2025 20:22:19.882] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4a5cbe74-35cb-4370-b6c8-9267d8da4679 timed out
+[23Apr2025 20:22:19.882] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player RompedorDeCucas
+[23Apr2025 20:22:19.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[23Apr2025 20:22:26.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas lost connection: Timed out
+[23Apr2025 20:22:26.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas left the game
+[23Apr2025 20:22:26.122] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RompedorDeCucas
