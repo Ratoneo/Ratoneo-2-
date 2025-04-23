@@ -519,8 +519,10 @@
       "cooked_mutton": "2025-04-23 18:26:00 +0000",
       "cooked_beef": "2025-04-23 18:29:20 +0000",
       "bread": "2025-04-23 19:10:54 +0000",
+      "golden_apple": "2025-04-23 19:45:25 +0000",
       "rotten_flesh": "2025-04-23 19:04:44 +0000",
       "glow_berries": "2025-04-23 19:18:35 +0000",
+      "beetroot": "2025-04-23 19:44:02 +0000",
       "cooked_chicken": "2025-04-23 18:36:05 +0000"
     },
     "done": false
@@ -1244,9 +1246,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-23 19:39:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-04-23 19:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-04-23 19:42:50 +0000"
     },
     "done": true
   },
@@ -1265,6 +1279,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-04-23 19:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-04-23 19:42:50 +0000"
     },
     "done": true
   },
@@ -1547,6 +1567,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-04-23 19:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-23 19:39:33 +0000"
     },
     "done": true
   },
