@@ -813,3 +813,40 @@
 [23Apr2025 18:48:13.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas joined the game
 [23Apr2025 18:48:13.882] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RompedorDeCucas (18)
 [23Apr2025 18:48:13.884] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[23Apr2025 18:53:01.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 has made the advancement [Suit Up]
+[23Apr2025 18:53:56.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RompedorDeCucas> perame mano
+[23Apr2025 18:54:09.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RompedorDeCucas> que no me conecta el micro de aca
+[23Apr2025 18:54:39.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 has made the advancement [Monster Hunter]
+[23Apr2025 18:56:40.015] [Downloader 2/INFO] [gg.moonflower.etched.common.sound.download.SoundCloudSource/]: Retrieving sound cloud id
+[23Apr2025 18:56:58.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 has made the advancement [Not Today, Thank You]
+[23Apr2025 18:57:00.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas lost connection: Disconnected
+[23Apr2025 18:57:00.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas left the game
+[23Apr2025 18:57:00.674] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RompedorDeCucas
+[23Apr2025 19:01:05.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 has made the advancement [A Strange Grave Dust]
+[23Apr2025 19:01:39.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 was slain by Cave Spider
+[23Apr2025 19:01:39.477] [Server thread/INFO] [tombstone/]: The player MIGUELDUQUE09 has successfully been saved
+[23Apr2025 19:02:03.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIGUELDUQUE09 was kicked for floating too long!
+[23Apr2025 19:02:03.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIGUELDUQUE09 lost connection: Flying is not enabled on this server
+[23Apr2025 19:02:03.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 left the game
+[23Apr2025 19:02:03.424] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MIGUELDUQUE09
+[23Apr2025 19:02:08.345] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player MIGUELDUQUE09 is 66b6b133-ee1a-4e62-91c5-d8157bf1f151
+[23Apr2025 19:02:10.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIGUELDUQUE09[/100.91.27.91:63932] logged in with entity id 11276 at (399.6786438838276, 40.35355653984041, 124.75980674163543)
+[23Apr2025 19:02:10.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 joined the game
+[23Apr2025 19:02:10.625] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MIGUELDUQUE09 (18)
+[23Apr2025 19:02:10.628] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MIGUELDUQUE09
+[23Apr2025 19:02:10.809] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 66b6b133-ee1a-4e62-91c5-d8157bf1f151
+[23Apr2025 19:02:11.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 66b6b133-ee1a-4e62-91c5-d8157bf1f151
+[23Apr2025 19:02:11.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MIGUELDUQUE09 (66b6b133-ee1a-4e62-91c5-d8157bf1f151) successfully connected to voice chat
+[23Apr2025 19:03:26.201] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player RompedorDeCucas is 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 19:03:28.434] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RompedorDeCucas[/100.100.131.31:65421] logged in with entity id 11691 at (427.6849609208085, 67.9375, 93.14888486834015)
+[23Apr2025 19:03:28.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas joined the game
+[23Apr2025 19:03:30.183] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RompedorDeCucas (18)
+[23Apr2025 19:03:30.187] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[23Apr2025 19:03:34.814] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 19:03:35.815] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 19:03:35.815] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (4a5cbe74-35cb-4370-b6c8-9267d8da4679) successfully connected to voice chat
+[23Apr2025 19:04:34.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 has made the advancement [Knowledge of Death]
+[23Apr2025 19:04:34.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 has made the advancement [Ashes 'n Bones]
+[23Apr2025 19:05:32.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 has made the advancement [Diamonds!]
+[23Apr2025 19:12:06.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [A Strange Grave Dust]
+[23Apr2025 19:12:36.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RompedorDeCucas> oe donde esta
