@@ -1054,3 +1054,4 @@
 [23Apr2025 21:33:45.632] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (4a5cbe74-35cb-4370-b6c8-9267d8da4679) successfully connected to voice chat
 [23Apr2025 21:38:02.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RompedorDeCucas) moved wrongly! 0.3143208329795044
 [23Apr2025 21:39:36.320] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31135, l='ServerLevel[world]', x=415.18, y=63.90, z=108.90] died, message: 'Villager suffocated in a wall'
+[23Apr2025 21:44:35.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [A Seedy Place]
