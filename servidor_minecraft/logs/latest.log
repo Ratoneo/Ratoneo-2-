@@ -913,3 +913,31 @@
 [23Apr2025 20:22:26.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas lost connection: Timed out
 [23Apr2025 20:22:26.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas left the game
 [23Apr2025 20:22:26.122] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RompedorDeCucas
+[23Apr2025 20:32:30.668] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player RompedorDeCucas is 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 20:32:40.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RompedorDeCucas[/100.100.131.31:49515] logged in with entity id 25281 at (341.8455347120411, -19.0, 43.492892070063604)
+[23Apr2025 20:32:40.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas joined the game
+[23Apr2025 20:32:50.008] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RompedorDeCucas (18)
+[23Apr2025 20:32:50.009] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[23Apr2025 20:33:36.080] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 20:33:37.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 20:33:37.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (4a5cbe74-35cb-4370-b6c8-9267d8da4679) successfully connected to voice chat
+[23Apr2025 20:34:39.850] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4a5cbe74-35cb-4370-b6c8-9267d8da4679 timed out
+[23Apr2025 20:34:39.850] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player RompedorDeCucas
+[23Apr2025 20:34:39.850] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[23Apr2025 20:34:40.638] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 20:34:41.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 20:34:41.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (4a5cbe74-35cb-4370-b6c8-9267d8da4679) successfully connected to voice chat
+[23Apr2025 20:38:51.283] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4a5cbe74-35cb-4370-b6c8-9267d8da4679 timed out
+[23Apr2025 20:38:51.284] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player RompedorDeCucas
+[23Apr2025 20:38:51.284] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[23Apr2025 20:38:55.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas lost connection: Timed out
+[23Apr2025 20:38:55.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas left the game
+[23Apr2025 20:38:55.773] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RompedorDeCucas
+[23Apr2025 20:41:27.580] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player RompedorDeCucas is 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 20:41:37.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RompedorDeCucas[/100.100.131.31:49561] logged in with entity id 26530 at (289.87930749214405, 66.0, 56.663189782882505)
+[23Apr2025 20:41:37.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas joined the game
+[23Apr2025 20:41:48.578] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RompedorDeCucas (18)
+[23Apr2025 20:41:48.578] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[23Apr2025 20:42:56.857] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 20:42:57.966] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 20:42:57.966] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (4a5cbe74-35cb-4370-b6c8-9267d8da4679) successfully connected to voice chat
