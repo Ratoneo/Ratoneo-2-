@@ -1020,3 +1020,27 @@
 [23Apr2025 21:00:47.777] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
 [23Apr2025 21:00:47.777] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (4a5cbe74-35cb-4370-b6c8-9267d8da4679) successfully connected to voice chat
 [23Apr2025 21:02:25.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has reached the goal [Here They Come]
+[23Apr2025 21:07:36.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas was kicked for floating too long!
+[23Apr2025 21:07:36.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas lost connection: Flying is not enabled on this server
+[23Apr2025 21:07:36.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas left the game
+[23Apr2025 21:07:36.670] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RompedorDeCucas
+[23Apr2025 21:10:16.843] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player RompedorDeCucas is 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 21:10:26.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RompedorDeCucas[/100.100.131.31:49757] logged in with entity id 30556 at (166.03316094450565, 81.53584062504456, 62.417998660024296)
+[23Apr2025 21:10:26.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas joined the game
+[23Apr2025 21:10:33.919] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RompedorDeCucas (18)
+[23Apr2025 21:10:33.920] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[23Apr2025 21:11:33.112] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 21:11:33.571] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 21:11:33.571] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (4a5cbe74-35cb-4370-b6c8-9267d8da4679) successfully connected to voice chat
+[23Apr2025 21:11:33.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas was kicked for floating too long!
+[23Apr2025 21:11:33.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas lost connection: Flying is not enabled on this server
+[23Apr2025 21:11:33.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas left the game
+[23Apr2025 21:11:33.820] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RompedorDeCucas
+[23Apr2025 21:12:03.913] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player RompedorDeCucas is 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 21:12:07.122] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RompedorDeCucas[/100.100.131.31:49774] logged in with entity id 30762 at (166.03316094450565, 81.53584062504456, 62.417998660024296)
+[23Apr2025 21:12:07.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas joined the game
+[23Apr2025 21:12:07.800] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RompedorDeCucas (18)
+[23Apr2025 21:12:07.801] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[23Apr2025 21:12:37.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas lost connection: Timed out
+[23Apr2025 21:12:37.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas left the game
+[23Apr2025 21:12:37.221] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RompedorDeCucas
