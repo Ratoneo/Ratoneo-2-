@@ -770,3 +770,14 @@
 [23Apr2025 18:21:11.083] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 66b6b133-ee1a-4e62-91c5-d8157bf1f151
 [23Apr2025 18:21:11.083] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MIGUELDUQUE09 (66b6b133-ee1a-4e62-91c5-d8157bf1f151) successfully connected to voice chat
 [23Apr2025 18:22:12.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 has made the advancement [Stone Age]
+[23Apr2025 18:22:27.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 has made the advancement [Getting an Upgrade]
+[23Apr2025 18:23:06.209] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player RompedorDeCucas is 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 18:23:08.625] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RompedorDeCucas[/100.100.131.31:64900] logged in with entity id 3070 at (429.3771016390266, 69.0, 98.01122228699468)
+[23Apr2025 18:23:08.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas joined the game
+[23Apr2025 18:23:11.537] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RompedorDeCucas (18)
+[23Apr2025 18:23:11.555] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[23Apr2025 18:23:17.148] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 18:23:18.196] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[23Apr2025 18:23:18.196] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (4a5cbe74-35cb-4370-b6c8-9267d8da4679) successfully connected to voice chat
+[23Apr2025 18:26:08.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RompedorDeCucas> Ya voy
+[23Apr2025 18:26:14.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RompedorDeCucas> mira el mapa con la J
