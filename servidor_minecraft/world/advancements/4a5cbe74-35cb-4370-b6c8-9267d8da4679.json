@@ -1698,6 +1698,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-04-23 18:23:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-04-23 18:36:54 +0000"
@@ -1713,12 +1719,6 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-04-23 18:36:54 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-04-23 18:23:09 +0000"
     },
     "done": true
   },
