@@ -2660,3 +2660,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Apr2025 18:27:39.992] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of MIGUELDUQUE09: {disabled=false, disconnected=false, uuid=66b6b133-ee1a-4e62-91c5-d8157bf1f151, name=MIGUELDUQUE09, group=null}
 [23Apr2025 18:28:39.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Apr2025 18:28:39.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 18:33:39.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 18:33:39.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 18:33:48.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 has made the advancement [Sweet Dreams]
+[23Apr2025 18:36:50.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 has made the advancement [Acquire Hardware]
+[23Apr2025 18:37:19.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 has made the advancement [Isn't It Iron Pick]
+[23Apr2025 18:38:39.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 18:38:39.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 18:40:19.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIGUELDUQUE09 has made the advancement [A Seedy Place]
