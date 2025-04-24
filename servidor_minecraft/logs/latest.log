@@ -95,3 +95,14 @@
 [24Apr2025 20:25:01.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
 [24Apr2025 20:25:01.543] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (4a5cbe74-35cb-4370-b6c8-9267d8da4679) successfully connected to voice chat
 [24Apr2025 20:27:06.240] [Downloader 2/INFO] [gg.moonflower.etched.common.sound.download.SoundCloudSource/]: Retrieving sound cloud id
+[24Apr2025 20:46:21.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas lost connection: Disconnected
+[24Apr2025 20:46:21.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas left the game
+[24Apr2025 20:46:21.781] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RompedorDeCucas
+[24Apr2025 20:46:25.463] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player RompedorDeCucas is 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[24Apr2025 20:46:27.535] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RompedorDeCucas[/100.100.131.31:60565] logged in with entity id 5495 at (441.1598138678754, 64.0, 124.42729143420772)
+[24Apr2025 20:46:27.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas joined the game
+[24Apr2025 20:46:27.840] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RompedorDeCucas (18)
+[24Apr2025 20:46:27.844] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[24Apr2025 20:46:30.862] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[24Apr2025 20:46:31.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[24Apr2025 20:46:31.507] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (4a5cbe74-35cb-4370-b6c8-9267d8da4679) successfully connected to voice chat
