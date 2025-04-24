@@ -156,3 +156,15 @@
 [24Apr2025 21:25:26.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TTVMidxh_ lost connection: Disconnected
 [24Apr2025 21:25:26.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ left the game
 [24Apr2025 21:25:26.459] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TTVMidxh_
+[24Apr2025 23:21:05.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Apr2025 23:21:05.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Apr2025 23:21:05.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Apr2025 23:21:05.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Apr2025 23:21:06.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Apr2025 23:21:06.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Apr2025 23:21:06.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Apr2025 23:21:06.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Apr2025 23:21:06.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Apr2025 23:21:06.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Apr2025 23:21:06.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Apr2025 23:21:06.699] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
