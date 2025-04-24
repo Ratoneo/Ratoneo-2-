@@ -106,3 +106,41 @@
 [24Apr2025 20:46:30.862] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
 [24Apr2025 20:46:31.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
 [24Apr2025 20:46:31.507] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (4a5cbe74-35cb-4370-b6c8-9267d8da4679) successfully connected to voice chat
+[24Apr2025 20:50:14.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Ambush]
+[24Apr2025 20:51:04.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ has made the advancement [A Strange Grave Dust]
+[24Apr2025 20:52:19.108] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Bard'/324, l='ServerLevel[world]', x=416.56, y=58.00, z=68.57] died, message: 'Bard was slain by Zombie'
+[24Apr2025 20:52:21.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ has made the advancement [Not Today, Thank You]
+[24Apr2025 20:53:39.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas burned to death
+[24Apr2025 20:53:39.990] [Server thread/INFO] [tombstone/]: The player RompedorDeCucas has successfully been saved
+[24Apr2025 20:54:16.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ has made the advancement [Knowledge of Death]
+[24Apr2025 20:54:16.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ has reached the goal [Strong or Careful]
+[24Apr2025 20:54:16.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ tried to swim in lava
+[24Apr2025 20:54:16.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ has made the advancement [Your First Grave]
+[24Apr2025 20:54:16.423] [Server thread/INFO] [tombstone/]: The player TTVMidxh_ has successfully been saved
+[24Apr2025 20:54:23.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas was kicked for floating too long!
+[24Apr2025 20:54:23.213] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas lost connection: Flying is not enabled on this server
+[24Apr2025 20:54:23.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas left the game
+[24Apr2025 20:54:23.214] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RompedorDeCucas
+[24Apr2025 20:54:28.746] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player RompedorDeCucas is 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[24Apr2025 20:54:30.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RompedorDeCucas[/100.100.131.31:60611] logged in with entity id 7764 at (176.06667434557116, 75.46026947021555, 75.32068122777025)
+[24Apr2025 20:54:30.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas joined the game
+[24Apr2025 20:54:31.247] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RompedorDeCucas (18)
+[24Apr2025 20:54:31.252] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[24Apr2025 20:54:34.753] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[24Apr2025 20:54:35.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
+[24Apr2025 20:54:35.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (4a5cbe74-35cb-4370-b6c8-9267d8da4679) successfully connected to voice chat
+[24Apr2025 20:54:40.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TTVMidxh_ lost connection: Disconnected
+[24Apr2025 20:54:40.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ left the game
+[24Apr2025 20:54:40.710] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TTVMidxh_
+[24Apr2025 20:54:42.218] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TTVMidxh_ is 6925634b-ef1b-4773-98a5-9400b5548115
+[24Apr2025 20:54:43.818] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TTVMidxh_[/100.114.255.117:56037] logged in with entity id 7966 at (28.463368879484747, 70.0, 35.23828991423385)
+[24Apr2025 20:54:43.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ joined the game
+[24Apr2025 20:54:44.024] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TTVMidxh_ (18)
+[24Apr2025 20:54:44.028] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TTVMidxh_
+[24Apr2025 20:54:45.671] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6925634b-ef1b-4773-98a5-9400b5548115
+[24Apr2025 20:54:46.670] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6925634b-ef1b-4773-98a5-9400b5548115
+[24Apr2025 20:54:46.670] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TTVMidxh_ (6925634b-ef1b-4773-98a5-9400b5548115) successfully connected to voice chat
+[24Apr2025 20:55:03.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ has reached the goal [Here They Come]
+[24Apr2025 20:55:29.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ has made the advancement [Knowledge raises the soul]
+[24Apr2025 20:57:18.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TTVMidxh_ tried to swim in lava
+[24Apr2025 20:57:18.567] [Server thread/INFO] [tombstone/]: The player TTVMidxh_ has successfully been saved
