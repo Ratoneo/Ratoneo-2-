@@ -6,3 +6,11 @@
 [24Apr2025 02:16:06.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 738c4df1-b0ba-4a73-a3b7-57705e877082
 [24Apr2025 02:16:07.063] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 738c4df1-b0ba-4a73-a3b7-57705e877082
 [24Apr2025 02:16:07.063] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player iDarkest (738c4df1-b0ba-4a73-a3b7-57705e877082) successfully connected to voice chat
+[24Apr2025 02:18:12.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] sapa
+[24Apr2025 02:19:05.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDarkest was shot by Skeleton
+[24Apr2025 02:19:05.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDarkest has made the advancement [Your First Grave]
+[24Apr2025 02:19:05.023] [Server thread/INFO] [tombstone/]: The player iDarkest has successfully been saved
+[24Apr2025 02:19:06.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDarkest has made the advancement [Monster Hunter]
+[24Apr2025 02:19:11.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDarkest lost connection: Disconnected
+[24Apr2025 02:19:11.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDarkest left the game
+[24Apr2025 02:19:11.771] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client iDarkest
