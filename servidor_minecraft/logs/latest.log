@@ -14,3 +14,15 @@
 [24Apr2025 02:19:11.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDarkest lost connection: Disconnected
 [24Apr2025 02:19:11.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDarkest left the game
 [24Apr2025 02:19:11.771] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client iDarkest
+[24Apr2025 05:10:09.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Apr2025 05:10:09.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Apr2025 05:10:09.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Apr2025 05:10:09.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Apr2025 05:10:10.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Apr2025 05:10:10.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Apr2025 05:10:10.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Apr2025 05:10:10.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Apr2025 05:10:10.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Apr2025 05:10:10.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Apr2025 05:10:10.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Apr2025 05:10:10.953] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
