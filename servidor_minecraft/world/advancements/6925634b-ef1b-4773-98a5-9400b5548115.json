@@ -530,6 +530,7 @@
       "minecraft:cave_spider": "2025-04-15 02:55:17 +0000",
       "minecraft:enderman": "2025-04-24 20:31:05 +0000",
       "minecraft:zombie": "2025-04-15 02:17:08 +0000",
+      "minecraft:drowned": "2025-04-24 21:10:07 +0000",
       "minecraft:zombie_villager": "2025-04-15 02:32:49 +0000"
     },
     "done": false
@@ -1500,15 +1501,45 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-24 21:10:15 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-04-24 20:55:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-24 21:14:17 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-04-24 20:55:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-04-24 21:11:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-04-24 21:10:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-04-24 21:14:28 +0000"
     },
     "done": true
   },
