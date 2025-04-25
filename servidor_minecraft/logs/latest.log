@@ -104,3 +104,9 @@
 [25Apr2025 03:37:29.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macknos has made the advancement [Your First Grave]
 [25Apr2025 03:37:29.988] [Server thread/INFO] [tombstone/]: The player Macknos has successfully been saved
 [25Apr2025 03:45:17.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] HAY QUE SER MINEROOO
+[25Apr2025 03:57:57.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jurcarpfor lost connection: Disconnected
+[25Apr2025 03:57:57.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jurcarpfor left the game
+[25Apr2025 03:57:57.835] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jurcarpfor
+[25Apr2025 03:58:46.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macknos lost connection: Disconnected
+[25Apr2025 03:58:46.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macknos left the game
+[25Apr2025 03:58:46.480] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macknos

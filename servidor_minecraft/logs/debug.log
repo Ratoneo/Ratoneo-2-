@@ -1322,3 +1322,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25Apr2025 03:45:17.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] HAY QUE SER MINEROOO
 [25Apr2025 03:45:53.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Apr2025 03:45:53.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Apr2025 03:50:53.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Apr2025 03:50:53.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Apr2025 03:55:53.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Apr2025 03:55:53.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Apr2025 03:57:57.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jurcarpfor lost connection: Disconnected
+[25Apr2025 03:57:57.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jurcarpfor left the game
+[25Apr2025 03:57:57.832] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Jurcarpfor
+[25Apr2025 03:57:57.835] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jurcarpfor
+[25Apr2025 03:58:46.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macknos lost connection: Disconnected
+[25Apr2025 03:58:46.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macknos left the game
+[25Apr2025 03:58:46.478] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Macknos
+[25Apr2025 03:58:46.480] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macknos
+[25Apr2025 03:58:46.488] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 46145d9a-8376-3de9-959e-70515a97d637 does not have a secret
