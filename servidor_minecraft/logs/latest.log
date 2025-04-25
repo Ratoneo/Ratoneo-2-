@@ -110,3 +110,15 @@
 [25Apr2025 03:58:46.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macknos lost connection: Disconnected
 [25Apr2025 03:58:46.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macknos left the game
 [25Apr2025 03:58:46.480] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macknos
+[25Apr2025 04:00:59.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Apr2025 04:00:59.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Apr2025 04:00:59.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Apr2025 04:00:59.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Apr2025 04:01:00.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Apr2025 04:01:00.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Apr2025 04:01:00.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Apr2025 04:01:00.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Apr2025 04:01:00.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Apr2025 04:01:00.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Apr2025 04:01:00.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Apr2025 04:01:00.512] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
