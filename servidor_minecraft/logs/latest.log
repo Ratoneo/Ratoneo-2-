@@ -165,3 +165,9 @@
 [26Apr2025 05:19:40.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (960361de-61da-304d-aa26-4d558a9df17a) successfully connected to voice chat
 [26Apr2025 05:20:08.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Silvers118> bro ni me di cuenta que explore a la merga
 [26Apr2025 05:21:12.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RompedorDeCucas> diavlos AJAJAJ
+[26Apr2025 05:25:49.074] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a timed out
+[26Apr2025 05:25:49.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player RompedorDeCucas
+[26Apr2025 05:25:49.077] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[26Apr2025 05:26:00.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas lost connection: Timed out
+[26Apr2025 05:26:00.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas left the game
+[26Apr2025 05:26:00.976] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RompedorDeCucas

@@ -822,21 +822,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-04-26 05:05:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-04-26 04:56:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-04-26 05:04:17 +0000"
     },
     "done": true
   },
@@ -852,13 +840,19 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
-      "wheat": "2025-04-26 05:08:55 +0000"
+      "has_gold_ingot": "2025-04-26 04:56:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_hoe": {
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-26 04:56:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-26 04:56:57 +0000"
     },
@@ -876,21 +870,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-26 05:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-26 05:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-26 05:08:55 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2025-04-26 05:09:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2025-04-26 04:56:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2025-04-26 04:56:57 +0000"
     },
     "done": true
   },
