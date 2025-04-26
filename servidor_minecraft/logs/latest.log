@@ -4,3 +4,13 @@
 [26Apr2025 00:22:58.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDarkest lost connection: Disconnected
 [26Apr2025 00:22:58.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDarkest left the game
 [26Apr2025 00:22:58.990] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client iDarkest
+[26Apr2025 00:34:45.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iDarkest[/100.75.64.72:59286] logged in with entity id 3569 at (154.30000001192093, 62.0, 262.96939186869105)
+[26Apr2025 00:34:45.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDarkest joined the game
+[26Apr2025 00:34:46.138] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of iDarkest (18)
+[26Apr2025 00:34:46.146] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to iDarkest
+[26Apr2025 00:34:46.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3fdf416d-121f-397d-8133-32a2c5dbc145
+[26Apr2025 00:34:47.705] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3fdf416d-121f-397d-8133-32a2c5dbc145
+[26Apr2025 00:34:47.705] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player iDarkest (3fdf416d-121f-397d-8133-32a2c5dbc145) successfully connected to voice chat
+[26Apr2025 00:34:52.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDarkest lost connection: Disconnected
+[26Apr2025 00:34:52.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDarkest left the game
+[26Apr2025 00:34:52.341] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client iDarkest
