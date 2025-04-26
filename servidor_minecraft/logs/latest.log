@@ -175,3 +175,15 @@
 [26Apr2025 06:03:51.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Silvers118 lost connection: Timed out
 [26Apr2025 06:03:51.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silvers118 left the game
 [26Apr2025 06:03:51.073] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Silvers118
+[26Apr2025 06:13:17.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Apr2025 06:13:17.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Apr2025 06:13:17.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Apr2025 06:13:17.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Apr2025 06:13:17.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Apr2025 06:13:18.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Apr2025 06:13:18.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Apr2025 06:13:18.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Apr2025 06:13:18.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Apr2025 06:13:18.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Apr2025 06:13:18.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Apr2025 06:13:18.263] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
