@@ -136,3 +136,32 @@
 [26Apr2025 04:52:28.439] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 960361de-61da-304d-aa26-4d558a9df17a
 [26Apr2025 04:52:28.440] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (960361de-61da-304d-aa26-4d558a9df17a) successfully connected to voice chat
 [26Apr2025 04:59:57.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silvers118 has made the advancement [Sweet Dreams]
+[26Apr2025 05:05:10.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Take Aim]
+[26Apr2025 05:05:44.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas was blown up by Creeper
+[26Apr2025 05:05:44.356] [Server thread/INFO] [tombstone/]: The player RompedorDeCucas has successfully been saved
+[26Apr2025 05:05:53.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Silvers118> noooo lo detonaron xd
+[26Apr2025 05:08:55.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [A Seedy Place]
+[26Apr2025 05:09:32.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas was impaled by Drowned
+[26Apr2025 05:09:32.484] [Server thread/INFO] [tombstone/]: The player RompedorDeCucas has successfully been saved
+[26Apr2025 05:09:55.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has reached the goal [Discreet Search]
+[26Apr2025 05:13:21.750] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a timed out
+[26Apr2025 05:13:21.750] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player RompedorDeCucas
+[26Apr2025 05:13:21.751] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[26Apr2025 05:13:28.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas lost connection: Timed out
+[26Apr2025 05:13:28.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas left the game
+[26Apr2025 05:13:28.978] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RompedorDeCucas
+[26Apr2025 05:18:15.158] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RompedorDeCucas[/100.100.131.31:65097] logged in with entity id 17394 at (429.2201674619133, 69.0, 97.12430334163686)
+[26Apr2025 05:18:15.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas joined the game
+[26Apr2025 05:18:16.922] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RompedorDeCucas (18)
+[26Apr2025 05:18:16.923] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[26Apr2025 05:18:25.393] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 960361de-61da-304d-aa26-4d558a9df17a
+[26Apr2025 05:18:26.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 960361de-61da-304d-aa26-4d558a9df17a
+[26Apr2025 05:18:26.376] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (960361de-61da-304d-aa26-4d558a9df17a) successfully connected to voice chat
+[26Apr2025 05:19:32.957] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a timed out
+[26Apr2025 05:19:32.959] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player RompedorDeCucas
+[26Apr2025 05:19:32.960] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[26Apr2025 05:19:39.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 960361de-61da-304d-aa26-4d558a9df17a
+[26Apr2025 05:19:40.924] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 960361de-61da-304d-aa26-4d558a9df17a
+[26Apr2025 05:19:40.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (960361de-61da-304d-aa26-4d558a9df17a) successfully connected to voice chat
+[26Apr2025 05:20:08.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Silvers118> bro ni me di cuenta que explore a la merga
+[26Apr2025 05:21:12.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RompedorDeCucas> diavlos AJAJAJ
