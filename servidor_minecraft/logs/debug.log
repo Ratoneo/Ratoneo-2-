@@ -1307,3 +1307,20 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Apr2025 04:29:51.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (960361de-61da-304d-aa26-4d558a9df17a) successfully connected to voice chat
 [26Apr2025 04:29:52.033] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of RompedorDeCucas: {disabled=false, disconnected=false, uuid=960361de-61da-304d-aa26-4d558a9df17a, name=RompedorDeCucas, group=null}
 [26Apr2025 04:31:02.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silvers118 has made the advancement [Stone Age]
+[26Apr2025 04:31:48.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silvers118 has made the advancement [Getting an Upgrade]
+[26Apr2025 04:32:53.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 04:32:53.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 04:37:53.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 04:37:53.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 04:38:17.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Magic Writing]
+[26Apr2025 04:38:42.912] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Silvers118: {disabled=false, disconnected=false, uuid=3643c8ce-8643-31bb-8f96-e10180c4b75b, name=Silvers118, group=null}
+[26Apr2025 04:38:53.243] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Silvers118: {disabled=true, disconnected=false, uuid=3643c8ce-8643-31bb-8f96-e10180c4b75b, name=Silvers118, group=null}
+[26Apr2025 04:38:58.107] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Silvers118: {disabled=false, disconnected=false, uuid=3643c8ce-8643-31bb-8f96-e10180c4b75b, name=Silvers118, group=null}
+[26Apr2025 04:39:14.069] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Silvers118: {disabled=true, disconnected=false, uuid=3643c8ce-8643-31bb-8f96-e10180c4b75b, name=Silvers118, group=null}
+[26Apr2025 04:39:27.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Not Today, Thank You]
+[26Apr2025 04:39:40.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silvers118 has made the advancement [Monster Hunter]
+[26Apr2025 04:39:53.029] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Silvers118: {disabled=false, disconnected=false, uuid=3643c8ce-8643-31bb-8f96-e10180c4b75b, name=Silvers118, group=null}
+[26Apr2025 04:40:42.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Acquire Hardware]
+[26Apr2025 04:41:17.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Knowledge of Death]
+[26Apr2025 04:41:17.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [A Strange Grave Dust]
+[26Apr2025 04:41:30.792] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Silvers118: {disabled=true, disconnected=false, uuid=3643c8ce-8643-31bb-8f96-e10180c4b75b, name=Silvers118, group=null}

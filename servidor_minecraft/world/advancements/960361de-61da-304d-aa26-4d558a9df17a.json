@@ -375,15 +375,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_slab": {
+  "etched:recipes/misc/blank_music_disc": {
     "criteria": {
-      "has_planks": "2025-04-26 02:57:37 +0000"
+      "has_music_disc": "2025-04-26 02:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-04-26 02:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-26 02:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-26 02:56:19 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-04-26 02:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-26 02:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-26 02:56:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-26 02:57:37 +0000"
     },
     "done": true
   },
@@ -405,12 +441,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-04-26 02:56:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-26 02:57:37 +0000"
@@ -420,12 +450,6 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-04-26 02:57:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-04-26 02:56:48 +0000"
     },
     "done": true
   },
@@ -441,25 +465,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-04-26 02:56:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-04-26 02:57:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
+  "minecraft:recipes/decorations/barrel": {
     "criteria": {
-      "has_logs": "2025-04-26 02:56:19 +0000"
+      "has_planks": "2025-04-26 02:57:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
+  "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-04-26 02:57:37 +0000"
     },
@@ -477,21 +495,39 @@
     },
     "done": true
   },
-  "etched:recipes/misc/blank_music_disc": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_music_disc": "2025-04-26 02:54:22 +0000"
+      "has_egg": "2025-04-26 04:33:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "has_log": "2025-04-26 02:56:19 +0000"
+      "has_iron_sword": "2025-04-26 04:37:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
+  "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "has_planks": "2025-04-26 02:57:37 +0000"
+      "has_porkchop": "2025-04-26 04:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-26 04:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-26 04:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-04-26 04:37:03 +0000"
     },
     "done": true
   },
