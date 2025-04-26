@@ -110,3 +110,21 @@
 [26Apr2025 04:40:42.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Acquire Hardware]
 [26Apr2025 04:41:17.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Knowledge of Death]
 [26Apr2025 04:41:17.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [A Strange Grave Dust]
+[26Apr2025 04:42:54.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Ashes 'n Bones]
+[26Apr2025 04:44:50.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silvers118 has made the advancement [A Strange Grave Dust]
+[26Apr2025 04:46:47.571] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a timed out
+[26Apr2025 04:46:47.572] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player RompedorDeCucas
+[26Apr2025 04:46:47.574] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[26Apr2025 04:47:10.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas was shot by Skeleton
+[26Apr2025 04:47:11.006] [Server thread/INFO] [tombstone/]: The player RompedorDeCucas has successfully been saved
+[26Apr2025 04:47:22.318] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 960361de-61da-304d-aa26-4d558a9df17a
+[26Apr2025 04:47:26.226] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 960361de-61da-304d-aa26-4d558a9df17a
+[26Apr2025 04:47:26.226] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (960361de-61da-304d-aa26-4d558a9df17a) successfully connected to voice chat
+[26Apr2025 04:49:05.355] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a timed out
+[26Apr2025 04:49:05.356] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player RompedorDeCucas
+[26Apr2025 04:49:05.356] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[26Apr2025 04:49:15.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas lost connection: Timed out
+[26Apr2025 04:49:15.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas left the game
+[26Apr2025 04:49:15.047] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RompedorDeCucas
+[26Apr2025 04:49:15.090] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Apr2025 04:51:43.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silvers118 has reached the goal [Half a flight]
