@@ -1418,3 +1418,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Apr2025 00:08:23.923] [Server thread/DEBUG] [tombstone/]: A new grave of the player iDarkest was created at position [x:153, y:63, z:263, dim:minecraft:overworld]
 [26Apr2025 00:08:23.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDarkest has made the advancement [Your First Grave]
 [26Apr2025 00:08:23.941] [Server thread/INFO] [tombstone/]: The player iDarkest has successfully been saved
+[26Apr2025 00:11:49.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 00:11:49.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 00:16:49.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 00:16:49.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
