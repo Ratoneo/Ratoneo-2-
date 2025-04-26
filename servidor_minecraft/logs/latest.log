@@ -1,87 +1,105 @@
-[26Apr2025 02:29:53.823] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[26Apr2025 02:29:53.827] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[26Apr2025 02:29:54.133] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[26Apr2025 02:29:54.200] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Ratoneo-2-/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[26Apr2025 02:29:54.590] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ratoneo-2-/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[26Apr2025 02:29:54.595] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ratoneo-2-/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[26Apr2025 02:29:54.597] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ratoneo-2-/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[26Apr2025 02:29:54.599] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ratoneo-2-/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[26Apr2025 02:29:54.722] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[26Apr2025 02:29:57.252] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[26Apr2025 02:29:57.275] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[26Apr2025 02:30:07.668] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[26Apr2025 02:30:07.674] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[26Apr2025 02:30:08.998] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[26Apr2025 02:30:09.187] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[26Apr2025 02:30:09.213] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[26Apr2025 02:30:09.218] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[26Apr2025 02:30:09.224] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[26Apr2025 02:30:09.278] [main/INFO] [journeymap/]: Initializing Packet Registries
-[26Apr2025 02:30:09.563] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[26Apr2025 02:30:10.538] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.29 Target: 1.20.1-2.5.30
-[26Apr2025 02:30:10.548] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[26Apr2025 02:30:10.630] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.4 Target: null
-[26Apr2025 02:30:10.630] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[26Apr2025 02:30:10.883] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[26Apr2025 02:30:10.883] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[26Apr2025 02:30:10.978] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[26Apr2025 02:30:12.392] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[26Apr2025 02:30:13.673] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Ratoneo-2-/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23115!/assets/.mcassetsroot' uses unexpected schema
-[26Apr2025 02:30:13.675] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Ratoneo-2-/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23115!/data/.mcassetsroot' uses unexpected schema
-[26Apr2025 02:30:17.068] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[26Apr2025 02:30:17.278] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1519 advancements
-[26Apr2025 02:30:18.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[26Apr2025 02:30:18.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[26Apr2025 02:30:18.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[26Apr2025 02:30:18.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[26Apr2025 02:30:18.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[26Apr2025 02:30:18.615] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[26Apr2025 02:30:18.781] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[26Apr2025 02:30:18.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[26Apr2025 02:30:26.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[26Apr2025 02:30:31.046] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:30:31.056] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:30:31.057] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:30:31.083] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:30:31.089] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:30:31.136] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:30:31.156] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:30:31.177] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:30:31.236] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:30:31.249] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:30:31.275] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:30:31.557] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:30:32.050] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:30:32.551] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:30:33.061] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:30:33.554] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:30:34.048] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:30:34.548] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:30:35.234] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9187 ms
-[26Apr2025 02:30:35.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.473s)! For help, type "help"
-[26Apr2025 02:30:35.273] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[26Apr2025 02:30:35.329] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[26Apr2025 02:30:48.477] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player RompedorDeCucas is 4a5cbe74-35cb-4370-b6c8-9267d8da4679
-[26Apr2025 02:30:50.650] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RompedorDeCucas[/100.100.131.31:59515] logged in with entity id 184 at (421.35740557402653, 70.0, 89.37163949269282)
-[26Apr2025 02:30:50.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas joined the game
-[26Apr2025 02:30:54.065] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RompedorDeCucas (18)
-[26Apr2025 02:30:54.073] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
-[26Apr2025 02:30:54.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3544ms or 70 ticks behind
-[26Apr2025 02:30:54.235] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
-[26Apr2025 02:30:55.230] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4a5cbe74-35cb-4370-b6c8-9267d8da4679
-[26Apr2025 02:30:55.237] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (4a5cbe74-35cb-4370-b6c8-9267d8da4679) successfully connected to voice chat
-[26Apr2025 02:32:02.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas lost connection: Disconnected
-[26Apr2025 02:32:02.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas left the game
-[26Apr2025 02:32:02.846] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RompedorDeCucas
-[26Apr2025 02:32:31.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[26Apr2025 02:32:31.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[26Apr2025 02:32:31.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[26Apr2025 02:32:31.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[26Apr2025 02:32:31.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[26Apr2025 02:32:32.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[26Apr2025 02:32:32.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[26Apr2025 02:32:32.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[26Apr2025 02:32:32.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[26Apr2025 02:32:32.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[26Apr2025 02:32:32.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[26Apr2025 02:32:32.490] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[26Apr2025 04:21:38.267] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[26Apr2025 04:21:38.280] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[26Apr2025 04:21:39.081] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[26Apr2025 04:21:39.203] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Ratoneo-2-/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[26Apr2025 04:21:39.843] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ratoneo-2-/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[26Apr2025 04:21:39.846] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ratoneo-2-/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Apr2025 04:21:39.853] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ratoneo-2-/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Apr2025 04:21:39.855] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ratoneo-2-/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Apr2025 04:21:40.097] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[26Apr2025 04:21:45.398] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[26Apr2025 04:21:45.452] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[26Apr2025 04:22:04.255] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[26Apr2025 04:22:04.255] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[26Apr2025 04:22:06.206] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[26Apr2025 04:22:06.681] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[26Apr2025 04:22:06.695] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[26Apr2025 04:22:06.695] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[26Apr2025 04:22:06.695] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[26Apr2025 04:22:06.731] [main/INFO] [journeymap/]: Initializing Packet Registries
+[26Apr2025 04:22:07.428] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[26Apr2025 04:22:08.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.29 Target: 1.20.1-2.5.30
+[26Apr2025 04:22:08.841] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[26Apr2025 04:22:08.967] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.4 Target: null
+[26Apr2025 04:22:08.975] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[26Apr2025 04:22:09.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[26Apr2025 04:22:09.392] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[26Apr2025 04:22:09.565] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[26Apr2025 04:22:12.027] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[26Apr2025 04:22:14.085] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Ratoneo-2-/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23115!/assets/.mcassetsroot' uses unexpected schema
+[26Apr2025 04:22:14.086] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Ratoneo-2-/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23115!/data/.mcassetsroot' uses unexpected schema
+[26Apr2025 04:22:19.966] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[26Apr2025 04:22:20.275] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1519 advancements
+[26Apr2025 04:22:21.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[26Apr2025 04:22:21.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[26Apr2025 04:22:21.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[26Apr2025 04:22:21.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[26Apr2025 04:22:21.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[26Apr2025 04:22:21.983] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[26Apr2025 04:22:22.212] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[26Apr2025 04:22:22.212] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[26Apr2025 04:22:22.213] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[26Apr2025 04:22:22.213] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[26Apr2025 04:22:22.295] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[26Apr2025 04:22:22.309] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[26Apr2025 04:22:22.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[26Apr2025 04:22:33.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[26Apr2025 04:22:44.920] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.042] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.043] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.048] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.051] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.055] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.061] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.065] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.068] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.072] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.076] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.080] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.084] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.088] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.092] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.099] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.107] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.111] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.122] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.126] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.130] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.134] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.137] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.142] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:45.567] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:46.067] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:46.567] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:47.068] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:47.567] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 04:22:48.082] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 66%
+[26Apr2025 04:22:48.343] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 14776 ms
+[26Apr2025 04:22:48.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (26.108s)! For help, type "help"
+[26Apr2025 04:22:48.953] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[26Apr2025 04:22:49.046] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[26Apr2025 04:22:49.064] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[26Apr2025 04:23:12.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Silvers118[/100.127.61.98:53461] logged in with entity id 185 at (-0.5, 73.0, 42.5)
+[26Apr2025 04:23:12.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silvers118 joined the game
+[26Apr2025 04:23:14.029] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Silvers118 (18)
+[26Apr2025 04:23:14.047] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Silvers118
+[26Apr2025 04:23:14.843] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3643c8ce-8643-31bb-8f96-e10180c4b75b
+[26Apr2025 04:23:15.822] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3643c8ce-8643-31bb-8f96-e10180c4b75b
+[26Apr2025 04:23:16.133] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Silvers118 (3643c8ce-8643-31bb-8f96-e10180c4b75b) successfully connected to voice chat
+[26Apr2025 04:23:16.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2431ms or 48 ticks behind
+[26Apr2025 04:23:26.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Apr2025 04:23:26.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: waosss<--[HERE]
+[26Apr2025 04:23:34.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] waosss
+[26Apr2025 04:25:30.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] consigue madera
+[26Apr2025 04:25:57.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mierda
+[26Apr2025 04:27:38.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] moriste de gay
+[26Apr2025 04:27:56.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] daisky tu patrona
+[26Apr2025 04:29:43.214] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RompedorDeCucas[/100.100.131.31:61494] logged in with entity id 1263 at (429.69999998807907, 69.0, 97.2595862046374)
+[26Apr2025 04:29:43.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas joined the game
+[26Apr2025 04:29:45.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[26Apr2025 04:29:45.552] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RompedorDeCucas (18)
+[26Apr2025 04:29:45.552] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[26Apr2025 04:29:51.082] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 960361de-61da-304d-aa26-4d558a9df17a
+[26Apr2025 04:29:51.891] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 960361de-61da-304d-aa26-4d558a9df17a
+[26Apr2025 04:29:51.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (960361de-61da-304d-aa26-4d558a9df17a) successfully connected to voice chat
+[26Apr2025 04:31:02.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silvers118 has made the advancement [Stone Age]
