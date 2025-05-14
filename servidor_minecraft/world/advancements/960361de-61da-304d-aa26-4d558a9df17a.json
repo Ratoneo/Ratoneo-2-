@@ -48,6 +48,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-13 05:53:19 +0000",
       "minecraft:spider": "2025-04-26 04:43:56 +0000",
+      "minecraft:creeper": "2025-05-14 01:24:49 +0000",
       "minecraft:enderman": "2025-04-26 05:04:58 +0000",
       "minecraft:zombie": "2025-04-13 05:52:28 +0000",
       "minecraft:drowned": "2025-04-26 05:10:01 +0000"
@@ -488,7 +489,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "baked_potato": "2025-04-26 02:59:41 +0000"
+      "baked_potato": "2025-04-26 02:59:41 +0000",
+      "golden_carrot": "2025-05-14 01:28:29 +0000"
     },
     "done": false
   },
@@ -900,9 +902,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-14 01:27:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-05-14 01:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-14 01:27:56 +0000"
     },
     "done": true
   },
@@ -921,6 +935,18 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-05-14 01:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-14 01:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-14 01:24:54 +0000"
     },
     "done": true
   },

@@ -26,3 +26,4 @@
 [14May2025 01:21:43.952] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 960361de-61da-304d-aa26-4d558a9df17a
 [14May2025 01:21:44.820] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 960361de-61da-304d-aa26-4d558a9df17a
 [14May2025 01:21:44.822] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (960361de-61da-304d-aa26-4d558a9df17a) successfully connected to voice chat
+[14May2025 01:37:41.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Suit Up]
