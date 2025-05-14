@@ -1385,3 +1385,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14May2025 01:49:03.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14May2025 01:54:03.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14May2025 01:54:03.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 01:59:03.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 01:59:03.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 02:03:43.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Ambush]
+[14May2025 02:04:03.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 02:04:03.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 02:04:11.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas was blown up by Creeper
+[14May2025 02:04:11.183] [Server thread/DEBUG] [tombstone/]: A new grave of the player RompedorDeCucas was created at position [x:485, y:62, z:297, dim:minecraft:overworld]
+[14May2025 02:04:11.198] [Server thread/INFO] [tombstone/]: The player RompedorDeCucas has successfully been saved
