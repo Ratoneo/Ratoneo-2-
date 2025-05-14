@@ -30,3 +30,9 @@
 [14May2025 02:03:43.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas has made the advancement [Ambush]
 [14May2025 02:04:11.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas was blown up by Creeper
 [14May2025 02:04:11.198] [Server thread/INFO] [tombstone/]: The player RompedorDeCucas has successfully been saved
+[14May2025 02:18:29.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a timed out
+[14May2025 02:18:29.684] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player RompedorDeCucas
+[14May2025 02:18:29.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[14May2025 02:18:39.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas lost connection: Timed out
+[14May2025 02:18:39.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas left the game
+[14May2025 02:18:39.964] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RompedorDeCucas

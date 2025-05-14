@@ -1393,3 +1393,20 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14May2025 02:04:11.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas was blown up by Creeper
 [14May2025 02:04:11.183] [Server thread/DEBUG] [tombstone/]: A new grave of the player RompedorDeCucas was created at position [x:485, y:62, z:297, dim:minecraft:overworld]
 [14May2025 02:04:11.198] [Server thread/INFO] [tombstone/]: The player RompedorDeCucas has successfully been saved
+[14May2025 02:09:03.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 02:09:03.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 02:14:03.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 02:14:03.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 02:18:29.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a timed out
+[14May2025 02:18:29.684] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player RompedorDeCucas
+[14May2025 02:18:29.689] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to RompedorDeCucas
+[14May2025 02:18:29.689] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with RompedorDeCucas
+[14May2025 02:18:29.689] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with RompedorDeCucas
+[14May2025 02:18:29.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[14May2025 02:18:29.697] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 960361de-61da-304d-aa26-4d558a9df17a to disconnected: {disabled=false, disconnected=true, uuid=960361de-61da-304d-aa26-4d558a9df17a, name=RompedorDeCucas, group=null}
+[14May2025 02:18:39.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas lost connection: Timed out
+[14May2025 02:18:39.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas left the game
+[14May2025 02:18:39.963] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of RompedorDeCucas
+[14May2025 02:18:39.964] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RompedorDeCucas
+[14May2025 02:19:03.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 02:19:03.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
