@@ -19,3 +19,10 @@
 [14May2025 00:22:53.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RompedorDeCucas lost connection: Disconnected
 [14May2025 00:22:53.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas left the game
 [14May2025 00:22:53.817] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RompedorDeCucas
+[14May2025 01:21:35.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RompedorDeCucas[/100.100.131.31:51867] logged in with entity id 568 at (428.30000001192093, 69.0, 95.99862867568375)
+[14May2025 01:21:35.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RompedorDeCucas joined the game
+[14May2025 01:21:38.520] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RompedorDeCucas (18)
+[14May2025 01:21:38.527] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RompedorDeCucas
+[14May2025 01:21:43.952] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 960361de-61da-304d-aa26-4d558a9df17a
+[14May2025 01:21:44.820] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 960361de-61da-304d-aa26-4d558a9df17a
+[14May2025 01:21:44.822] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RompedorDeCucas (960361de-61da-304d-aa26-4d558a9df17a) successfully connected to voice chat
