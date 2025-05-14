@@ -1548,3 +1548,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14May2025 02:47:43.104] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2eb433c1[id=<null>,name=MIGUELDUQUE09,properties={},legacy=false] (/100.91.27.91:52247) lost connection: Connection closed - mismatched mod channel list
 [14May2025 02:49:03.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14May2025 02:49:03.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 02:54:03.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 02:54:03.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 02:59:03.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 02:59:03.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
