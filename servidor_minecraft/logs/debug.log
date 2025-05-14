@@ -1410,3 +1410,39 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14May2025 02:18:39.964] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RompedorDeCucas
 [14May2025 02:19:03.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14May2025 02:19:03.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 02:19:12.365] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:12.365] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:12.365] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:12.365] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:12.365] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:12.365] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:12.381] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:12.381] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:12.381] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:12.381] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:33.244] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:34.044] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:35.054] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:36.046] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:37.038] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:38.041] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:39.049] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:40.051] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:41.050] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:42.064] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:43.459] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:44.502] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:45.458] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:46.460] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:47.478] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:48.483] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:49.458] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:50.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:51.465] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:52.467] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:53.462] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:19:54.539] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 960361de-61da-304d-aa26-4d558a9df17a does not have a secret
+[14May2025 02:24:03.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 02:24:03.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 02:29:03.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 02:29:03.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
